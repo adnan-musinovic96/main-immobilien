@@ -5,6 +5,8 @@ built with a custom WordPress theme and custom plugins.
 
 This portfolio project uses PHP, vanilla JavaScript and SCSS.
 
+![Main Immobilien homepage](docs/homepage.png)
+
 ## Features
 
 - Property catalog with purchase and rental listings
