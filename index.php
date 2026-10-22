@@ -17,7 +17,7 @@
                 <div class="hero__media">
                     <img
                         src="<?php echo esc_url(
-                                    get_theme_file_uri('/assets/images/hero.png')
+                                    get_theme_file_uri('/assets/images/hero.webp')
                                 ); ?>"
                         alt="Eleganter Wohnbereich mit großen Fenstern"
                         fetchpriority="high">
@@ -140,7 +140,7 @@
                         <a href="#" data-city="frankfurt-am-main" class="location-card">
                             <div class="location-card__image">
                                 <img src="<?php echo esc_url(
-                                                get_theme_file_uri('/assets/images/ffm.png')
+                                                get_theme_file_uri('/assets/images/ffm.webp')
                                             ); ?>" alt="" loading="lazy">
                             </div>
                             <div class="location-card__content">
@@ -152,7 +152,7 @@
                         <a href="#" data-city="offenbach-am-main" class="location-card">
                             <div class="location-card__image">
                                 <img src="<?php echo esc_url(
-                                                get_theme_file_uri('/assets/images/off.png')
+                                                get_theme_file_uri('/assets/images/off.webp')
                                             ); ?>" alt="" loading="lazy">
                             </div>
                             <div class="location-card__content">
@@ -164,7 +164,7 @@
                         <a href="#" data-city="bad-homburg" class="location-card">
                             <div class="location-card__image">
                                 <img src="<?php echo esc_url(
-                                                get_theme_file_uri('/assets/images/bh.png')
+                                                get_theme_file_uri('/assets/images/bh.webp')
                                             ); ?>" alt="" loading="lazy">
                             </div>
                             <div class="location-card__content">
@@ -210,7 +210,7 @@
             <div class="wrapper">
                 <div class="about__image">
                     <img src="<?php echo esc_url(
-                                    get_theme_file_uri('/assets/images/about.png')
+                                    get_theme_file_uri('/assets/images/about.webp')
                                 ); ?>" alt="Immobilien sind persönlich">
                 </div>
                 <div class="about__content">

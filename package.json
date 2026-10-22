@@ -4,7 +4,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "node:sass": "npx sass --watch scss/style.scss style.css"
+    "node:sass": "npx sass scss/style.scss style.css --style=compressed --no-source-map"
   },
   "keywords": [],
   "author": "",

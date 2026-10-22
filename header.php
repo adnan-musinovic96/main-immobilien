@@ -12,7 +12,7 @@
 <meta property="og:title" content="Main Immobilien – Ihr neues Zuhause im Rhein-Main-Gebiet">
 <meta property="og:description" content="Entdecken Sie ausgewählte Immobilien zum Kaufen und Mieten in Frankfurt am Main, Offenbach und Bad Homburg.">
 <meta property="og:url" content="<?php echo esc_url(home_url('/')); ?>">
-<meta property="og:image" content="<?php echo esc_url(get_theme_file_uri('/assets/images/social-preview.png')); ?>">
+<meta property="og:image" content="<?php echo esc_url(get_theme_file_uri('/assets/images/social-preview.webp')); ?>">
 <meta property="og:image:alt" content="Main Immobilien – Immobilien im Rhein-Main-Gebiet">
 <?php endif; ?>
     <?php wp_head(); ?>
