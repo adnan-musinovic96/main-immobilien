@@ -58,9 +58,10 @@ if ($website !== null && $website !== '') {
     $body .= "Nachricht:\n{$message}";
 
     $headers = array(
-        'Content-Type: text/plain; charset=UTF-8',
-        'Reply-To: ' . $email,
-    );
+    'Content-Type: text/plain; charset=UTF-8',
+    'From: Main Immobilien <kontakt@mainimmobilien.site>',
+    'Reply-To: ' . $email,
+);
 
     $sent = wp_mail($to, $subject, $body, $headers);
 
